@@ -1,4 +1,4 @@
-# Bioinformatics (Generative AI) Internship Assignment - Novozymes Enzyme Stability Prediction
+# Bioinformatics - Novozymes Enzyme Stability Prediction
 
 This repository contains the final submission for the Tokihub internship assignment, which focuses on the **Novozymes Enzyme Stability Prediction** problem. The goal of this project is to demonstrate an end-to-end data science pipeline for a challenging bioinformatics problem involving large, real-world data.
 
